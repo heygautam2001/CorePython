@@ -13,4 +13,4 @@
 - None :  None
 - Function, modules , classes
 
--Adavanced: Decoraters , Generators , Iterators , MetaProgramming
+- Adavanced: Decoraters , Generators , Iterators , MetaProgramming
